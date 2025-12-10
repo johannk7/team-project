@@ -1,4 +1,3 @@
-# team-project
 # Data-Driven Exploration of Survival Patterns on the Titanic
 
 **Fall 2025 Data Science Project**  
